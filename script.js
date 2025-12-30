@@ -1,1 +1,1 @@
-// this is script file for my new repo
+// this is script file for my new repository
